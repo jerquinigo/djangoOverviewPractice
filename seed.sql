@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS dtest1;
+CREATE DATABASE dtest1;
+
+\c dtest1
